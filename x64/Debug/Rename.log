@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\WorkCpp\Rename\main.cpp(27,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\WorkCpp\Rename\main.cpp(52,16): warning C4474: scanf_s: 格式字符串中传递的参数太多
+F:\WorkCpp\Rename\main.cpp(52,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+F:\WorkCpp\Rename\main.cpp(62,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const std::string”
+F:\WorkCpp\Rename\main.cpp(42): warning C4715: “int2string”: 不是所有的控件路径都返回值
+  Rename.vcxproj -> F:\WorkCpp\Rename\x64\Debug\Rename.exe
